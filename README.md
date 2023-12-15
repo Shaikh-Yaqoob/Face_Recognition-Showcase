@@ -6,6 +6,8 @@ Welcome to the Face_Recognition-Showcase! This is your go-to place to explore co
 
 Check out projects ranging from attendance systems to identity verification.
 Discover how face recognition is making things smarter and more secure.
+
+
 🚀 Why Explore Here?
 
 Stay updated on the latest in face recognition technology.
